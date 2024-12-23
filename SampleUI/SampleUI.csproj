@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="scripts\sampleui\src\components\sampleuipage\sampleuipage.component.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="scripts\sampleui\src\environments\" />
+    <Folder Include="scripts\sampleui\src\helper\" />
+    <Folder Include="wwwroot\img\icon\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="5.3.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="scripts\sampleui\src\components\sampleuipage\sampleuipage.component.ts" />
+  </ItemGroup>
+
+</Project>

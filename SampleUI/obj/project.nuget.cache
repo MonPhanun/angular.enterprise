@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CilXXLH8tER617G1GEB3R/uUKvnq5gUXHjjwo3B/rgPMqwLQ5JbtyeRTOnsDxMgtW2hkEbB6Xoy+3rb3aCKeg==",
+  "success": true,
+  "projectFilePath": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\SampleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XEON\\.nuget\\packages\\microsoft.typescript.msbuild\\5.3.3\\microsoft.typescript.msbuild.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

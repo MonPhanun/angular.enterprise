@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SampleUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SampleUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\icon-dukamarket.css",
+      "PackagePath": "staticwebassets\\css\\icon-dukamarket.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\spacing.css",
+      "PackagePath": "staticwebassets\\css\\spacing.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\css\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\icon-dukamarket.eot",
+      "PackagePath": "staticwebassets\\fonts\\icon-dukamarket.eot"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\icon-dukamarket.svg",
+      "PackagePath": "staticwebassets\\fonts\\icon-dukamarket.svg"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\icon-dukamarket.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icon-dukamarket.ttf"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\fonts\\icon-dukamarket.woff",
+      "PackagePath": "staticwebassets\\fonts\\icon-dukamarket.woff"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\bup.js",
+      "PackagePath": "staticwebassets\\js\\bup.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\counterup.js",
+      "PackagePath": "staticwebassets\\js\\counterup.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\imagesloaded-pkgd.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded-pkgd.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\isotope-pkgd.js",
+      "PackagePath": "staticwebassets\\js\\isotope-pkgd.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\meanmenu.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\nice-select.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\parallax-effect.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax-effect.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_animation.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_background.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_section-title.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_section-title.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_tab.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_tab.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\components\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_about.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_brandproduct.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_brandproduct.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_cart.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_category.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_category.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_choose.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_choose.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_coming-soon.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_coming-soon.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_coundown.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_coundown.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_effect.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_effect.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_faq.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_feature.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_meanmenu.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_meanmenu.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_product-details.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_product-details.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_product.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_product.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_services.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_services.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_shop-location.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_shop-location.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_shop.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_team.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\layout\\login.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\login.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\utils\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\utils\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\utils\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\utils\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\utils\\_index.scss",
+      "PackagePath": "staticwebassets\\scss\\utils\\_index.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\utils\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\utils\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\utils\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\utils\\_root.scss"
+    },
+    {
+      "Id": "C:\\Angular CLI\\Learning Project\\Simpaz Trainnig\\Simpazz Project Idea\\SampleUI\\SampleUI\\wwwroot\\scss\\utils\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\utils\\_typography.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SampleUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SampleUI.props",
+      "PackagePath": "build\\SampleUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SampleUI.props",
+      "PackagePath": "buildMultiTargeting\\SampleUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SampleUI.props",
+      "PackagePath": "buildTransitive\\SampleUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
